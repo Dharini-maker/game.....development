@@ -65,3 +65,9 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+Uploading Ex10.mp4…
+
+## RESULT:
+
+ Thus the animation was done using flash and the output was verified.
