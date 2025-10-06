@@ -66,7 +66,10 @@ Step 5: Play the picture.
 
 ## OUTPUT:
 
-Uploading Ex10.mp4…
+
+https://github.com/user-attachments/assets/b90f311b-17bf-4c38-b914-5411cee27a42
+
+
 
 ## RESULT:
 
