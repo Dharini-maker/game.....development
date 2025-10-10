@@ -66,10 +66,7 @@ Step 5: Play the picture.
 
 ## OUTPUT:
 
-
 https://github.com/user-attachments/assets/66e5ebcb-7891-4075-92bb-db6f1d6392ea
-
-
 
 ## RESULT:
 
